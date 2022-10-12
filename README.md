@@ -1,0 +1,1 @@
+# springboot-specification-predicate-method
